@@ -3,12 +3,7 @@ fun f(){
 }
 fun main(args: Array<String>)
 {
-    println(Drugoe(5.0))
-    val b = MyClass()
-    b.f(7)
-    f()
-    val a = A()
-    a.aFun()
+    println("А я решил всё поменять ;)")
 }
 
 fun Drugoe(x :Double) = x*x
