@@ -7,3 +7,4 @@ fun main(args: Array<String>)
 }
 
 fun Drugoe(x :Double) = x*x
+fun ssss(y :Int) = y*y*y
