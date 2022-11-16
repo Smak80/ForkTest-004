@@ -7,3 +7,8 @@ fun main(args: Array<String>)
 }
 
 fun Drugoe(x :Double) = x*x
+
+fun PrintHello(){
+    val my = Myfunc()
+    my.Print()
+}
