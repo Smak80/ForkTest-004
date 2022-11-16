@@ -1,6 +1,10 @@
+import Denchik.DenchikClass
+
 fun f(){
     println("This is f function")
 }
+fun Drugoe(x :Double) = x*x
+
 fun main(args: Array<String>)
 {
     println(Drugoe(5.0))
@@ -9,6 +13,8 @@ fun main(args: Array<String>)
     f()
     val a = A()
     a.aFun()
+
+    val denchik = DenchikClass();
+    denchik.Fun();
 }
 
-fun Drugoe(x :Double) = x*x
