@@ -2,5 +2,5 @@ package Denchik
 
 class DenchikClass {
 
-    fun Fun() = "DenchikFunction";
+    fun Fun() = println("DenchikFunction");
 }
