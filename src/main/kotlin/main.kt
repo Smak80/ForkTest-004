@@ -9,6 +9,8 @@ fun main(args: Array<String>)
     f()
     val a = A()
     a.aFun()
+    val my = Myfunc()
+    my.Print()
 }
 
 fun Drugoe(x :Double) = x*x
