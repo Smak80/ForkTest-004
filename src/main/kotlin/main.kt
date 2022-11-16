@@ -4,6 +4,4 @@ fun f(){
 
 fun main(args: Array<String>) {
     f()
-    val a = A()
-    a.aFun()
 }
