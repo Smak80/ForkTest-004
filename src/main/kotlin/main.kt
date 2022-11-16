@@ -9,6 +9,8 @@ fun main(args: Array<String>)
     f()
     val a = A()
     a.aFun()
+    val strelka = Cat("Стрелка", 6, "Шотландка")
+    println(strelka.weight)
 }
 
 fun Drugoe(x :Double) = x*x
